@@ -1,0 +1,17 @@
+﻿ProductId,"Product
+Name",Size,flavor,Price
+1,    Pastel de Zanahoria,Chico,Zanahoria,60
+2,Milky Way,Chico,Chocolate,60
+3,Pay de Platano,Chico,Platano,60
+4,Mostachon,Chico,Fresa,60
+5,Mostachon,Chico,Mango,60
+6,    Pastel de Zanahoria,Mediano,Zanahoria,350
+7,Milky Way,Mediano,Chocolate,350
+8,Pay de Platano,Mediano,Platano,350
+9,Mostachon,Mediano,Fresa,350
+10,Mostachon,Mediano,Mango,350
+11,    Pastel de Zanahoria,Grande,Zanahoria,700
+12,Milky Way,Grande,Chocolate,700
+13,Pay de Platano,Grande,Platano,700
+14,Mostachon,Grande,Fresa,700
+15,Mostachon,Grande,Mango,700
